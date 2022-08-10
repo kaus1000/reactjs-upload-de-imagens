@@ -363,8 +363,7 @@ Para esse desafio, temos os seguintes testes:
 
 Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao final do desafio? Deixamos este [vídeo](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c5c6afb6-a6eb-4ed5-b4e5-d17d7557652b/resultadoFinal.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211104%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211104T133026Z&X-Amz-Expires=86400&X-Amz-Signature=c2004f02f0181567c1be8ee94c01351a33e49cc6d43811ebb3113024261e92c2&X-Amz-SignedHeaders=host) mostrando as principais funcionalidades que você deve implementar para te ajudar (ou matar sua curiosidade 👀).
 
-# 📅 Entrega
+# ✅ Entrega
 
-Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o link do repositório que você fez suas alterações. Após concluir o desafio, além de ter mandado o código para o GitHub, fazer um post no LinkedIn é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
  ![Screenshot_2](https://user-images.githubusercontent.com/66697772/183656971-71d26762-ca53-47af-8cd2-764d0a1ac7f0.png)
 
