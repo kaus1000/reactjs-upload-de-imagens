@@ -368,5 +368,3 @@ Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao f
 Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o link do repositório que você fez suas alterações. Após concluir o desafio, além de ter mandado o código para o GitHub, fazer um post no LinkedIn é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
  ![Screenshot_2](https://user-images.githubusercontent.com/66697772/183656971-71d26762-ca53-47af-8cd2-764d0a1ac7f0.png)
 
-
-## 📖 [Notion](https://www.notion.so/Desafio-02-Upload-de-imagens-4cf1c3b1c1ad4a66961b6e48558cc3b8)
